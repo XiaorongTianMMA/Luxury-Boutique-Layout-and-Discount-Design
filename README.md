@@ -2,6 +2,7 @@
 **Luxury Boutique Layout Optimization**
 
 **Overview**
+
 This repository hosts the final report for the MGSC 662 project, focusing on optimizing product placement in a luxury boutique. The project employs advanced analytics to maximize store revenue and enhance the shopping experience, catering to both new and VIP customers.
 
 **Project Summary**
